@@ -1,0 +1,83 @@
+OrderedDict([
+('https://www.wikidata.org/wiki/Q3268', 1), 
+('https://www.wikidata.org/wiki/Q1142459', 1), 
+('https://www.wikidata.org/wiki/Q5477096', 1), 
+('https://www.wikidata.org/wiki/Q165267', 1), 
+('https://www.wikidata.org/wiki/Q227819', 1),
+ ('https://www.wikidata.org/wiki/Q658413', 1),
+  ('https://www.wikidata.org/wiki/Q1093742', 1),
+   ('https://www.wikidata.org/wiki/Q151070', 1),
+    ('https://www.wikidata.org/wiki/Q259642', 1),
+     ('https://www.wikidata.org/wiki/Q10987', 1),
+      ('https://www.wikidata.org/wiki/Q13228', 1),
+       ('https://www.wikidata.org/wiki/Q4409456', 1),
+        ('https://www.wikidata.org/wiki/Q83165', 1),
+         ('https://www.wikidata.org/wiki/Q194322', 1),
+          ('https://www.wikidata.org/wiki/Q856330', 1),
+           ('https://www.wikidata.org/wiki/Q2249305', 2),
+            ('https://www.wikidata.org/wiki/Q3492989', 2),
+             ('https://www.wikidata.org/wiki/Q11190742', 2),
+              ('https://www.wikidata.org/wiki/Q798465', 2),
+               ('https://www.wikidata.org/wiki/Q1269', 3),
+                ('https://www.wikidata.org/wiki/Q28165', 3),
+                 ('https://www.wikidata.org/wiki/Q29476', 3),
+                  ('https://www.wikidata.org/wiki/Q8495', 4),
+                   ('https://www.wikidata.org/wiki/Q26879249', 4),
+                    ('https://www.wikidata.org/wiki/Q13186', 4),
+                     ('https://www.wikidata.org/wiki/Q283', 4),
+                      ('https://www.wikidata.org/wiki/Q93189', 7),
+                       ('https://www.wikidata.org/wiki/Q36465', 7),
+                        ('https://www.wikidata.org/wiki/Q11254', 8),
+                         ('https://www.wikidata.org/wiki/Q34172', 9),
+                          ('https://www.wikidata.org/wiki/Q11002', 9),
+                           ('https://www.wikidata.org/wiki/Q89', 10)])
+
+
+
+
+{'17': 'wheat_flour', '3': 'butter', 
+'4': 'table_salt', '10': 'milk', '1': 'apple ',
+ '16': 'vanilla_sugar', '32': 'calvados', '31': 'crème_fraîche',
+  '6': 'egg', '2': 'sugar', '5': 'flour',
+   '15': 'brown_sugar', '30': 'rusk', '9': 'lemon_zest',
+    '13': 'jam', '8': 'raisin', '7': 'water',
+     '29': 'cane_sugar', '12': 'cinnamon', '28': 'thick_juice',
+      '11': 'baking_powder', '27': 'bread_crumbs', '26': 'lemon',
+       '25': 'powdered_sugar', '24': 'quark', '14': 'baking_mix',
+        '23': 'honey', '22': 'cream', '21': 'white_sugar',
+         '20': 'nutmeg', '19': 'DL-tartaric_acid', '18': 'cracker'}
+
+
+
+apple 1
+sugar 2
+butter 3
+table salt 4
+flour 5
+egg 6
+water 7 
+raisin 8
+lemon zest 9
+milk 10
+baking powder 11
+cinnamon 12
+jam 13
+baking mix 14
+brown sugar 15
+vanilla sugar 16
+wheat flour 17
+cracker 18
+DL-tartaric acid 19
+nutmeg 20
+white sugar 21
+cream 22
+honey 23
+quark 24
+powder sugar 25
+lemon 26
+bread crumbs 27
+thick juice 28
+cane sugar 29
+rusk 30
+crème fraîche 31
+calvados 32

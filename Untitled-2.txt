@@ -1,0 +1,78 @@
+{'https://www.wikidata.org/wiki/Q2249305': 'wheat flour ', 'https://www.wikidata.org/wiki/Q34172': 'butter', 
+'https://www.wikidata.org/wiki/Q11254': 'table salt', 'https://www.wikidata.org/wiki/Q8495': 'milk', 'https://www.wikidata.org/wiki/Q89': 'apple ',
+ 'https://www.wikidata.org/wiki/Q3492989': 'vanilla sugar', 'https://www.wikidata.org/wiki/Q3268': 'calvados', 'https://www.wikidata.org/wiki/Q1142459': 'crème fraîche',
+  'https://www.wikidata.org/wiki/Q93189': 'egg', 'https://www.wikidata.org/wiki/Q11002': 'sugar', 'https://www.wikidata.org/wiki/Q36465': 'flour',
+   'https://www.wikidata.org/wiki/Q11190742': 'brown sugar', 'https://www.wikidata.org/wiki/Q5477096': 'rusk', 'https://www.wikidata.org/wiki/Q26879249': 'lemon zest',
+    'https://www.wikidata.org/wiki/Q1269': 'jam', 'https://www.wikidata.org/wiki/Q13186': 'raisin', 'https://www.wikidata.org/wiki/Q283': 'water',
+     'https://www.wikidata.org/wiki/Q165267': 'cane sugar', 'https://www.wikidata.org/wiki/Q28165': 'cinnamon', 'https://www.wikidata.org/wiki/Q227819': 'thick juice',
+      'https://www.wikidata.org/wiki/Q29476': 'baking powder', 'https://www.wikidata.org/wiki/Q658413': 'bread crumbs', 'https://www.wikidata.org/wiki/Q1093742': 'lemon',
+       'https://www.wikidata.org/wiki/Q151070': 'powdered sugar', 'https://www.wikidata.org/wiki/Q259642': 'quark', 'https://www.wikidata.org/wiki/Q798465': 'Baking mix',
+        'https://www.wikidata.org/wiki/Q10987': 'honey', 'https://www.wikidata.org/wiki/Q13228': 'cream', 'https://www.wikidata.org/wiki/Q4409456': 'white sugar',
+         'https://www.wikidata.org/wiki/Q83165': 'nutmeg', 'https://www.wikidata.org/wiki/Q194322': 'DL-tartaric acid', 'https://www.wikidata.org/wiki/Q856330': 'cracker'}
+
+
+
+
+{'https://www.wikidata.org/wiki/Q2249305': '06.2.1', 'https://www.wikidata.org/wiki/Q34172': '02.2.1', 
+'https://www.wikidata.org/wiki/Q11254': '12.1.1', 'https://www.wikidata.org/wiki/Q8495': '01.1', 'https://www.wikidata.org/wiki/Q89': '04.1.1',
+ 'https://www.wikidata.org/wiki/Q3492989': '11.1', 'https://www.wikidata.org/wiki/Q3268': '14.2.2', 'https://www.wikidata.org/wiki/Q1142459': '01.4',
+  'https://www.wikidata.org/wiki/Q93189': '10.1', 'https://www.wikidata.org/wiki/Q11002': '11.1', 'https://www.wikidata.org/wiki/Q36465': '06.2.1',
+   'https://www.wikidata.org/wiki/Q11190742': '11.1', 'https://www.wikidata.org/wiki/Q5477096': '07.0', 'https://www.wikidata.org/wiki/Q26879249': '04.1.1',
+    'https://www.wikidata.org/wiki/Q1269': '04.1.2.5', 'https://www.wikidata.org/wiki/Q13186': '04.1.2.2', 'https://www.wikidata.org/wiki/Q283': '14.1.1',
+     'https://www.wikidata.org/wiki/Q165267': '11.1', 'https://www.wikidata.org/wiki/Q28165': '12.2.1', 'https://www.wikidata.org/wiki/Q227819': '14.1.2.1',
+      'https://www.wikidata.org/wiki/Q29476': '', 'https://www.wikidata.org/wiki/Q658413': '07.1.4', 'https://www.wikidata.org/wiki/Q1093742': '04.1.1',
+       'https://www.wikidata.org/wiki/Q151070': '11.1', 'https://www.wikidata.org/wiki/Q259642': '01.0', 'https://www.wikidata.org/wiki/Q798465': '07.2.3',
+        'https://www.wikidata.org/wiki/Q10987': '11.5', 'https://www.wikidata.org/wiki/Q13228': '01.4', 'https://www.wikidata.org/wiki/Q4409456': '11.1',
+         'https://www.wikidata.org/wiki/Q83165': '12.2.1', 'https://www.wikidata.org/wiki/Q194322': 'INS.334', 'https://www.wikidata.org/wiki/Q856330': '07.1.2'}
+
+
+
+
+OrderedDict([
+('https://www.wikidata.org/wiki/Q3268', 1), 
+('https://www.wikidata.org/wiki/Q1142459', 1), 
+('https://www.wikidata.org/wiki/Q5477096', 1), 
+('https://www.wikidata.org/wiki/Q165267', 1), 
+('https://www.wikidata.org/wiki/Q227819', 1),
+ ('https://www.wikidata.org/wiki/Q658413', 1),
+  ('https://www.wikidata.org/wiki/Q1093742', 1),
+   ('https://www.wikidata.org/wiki/Q151070', 1),
+    ('https://www.wikidata.org/wiki/Q259642', 1),
+     ('https://www.wikidata.org/wiki/Q10987', 1),
+      ('https://www.wikidata.org/wiki/Q13228', 1),
+       ('https://www.wikidata.org/wiki/Q4409456', 1),
+        ('https://www.wikidata.org/wiki/Q83165', 1),
+         ('https://www.wikidata.org/wiki/Q194322', 1),
+          ('https://www.wikidata.org/wiki/Q856330', 1),
+           ('https://www.wikidata.org/wiki/Q2249305', 2),
+            ('https://www.wikidata.org/wiki/Q3492989', 2),
+             ('https://www.wikidata.org/wiki/Q11190742', 2),
+              ('https://www.wikidata.org/wiki/Q798465', 2),
+               ('https://www.wikidata.org/wiki/Q1269', 3),
+                ('https://www.wikidata.org/wiki/Q28165', 3),
+                 ('https://www.wikidata.org/wiki/Q29476', 3),
+                  ('https://www.wikidata.org/wiki/Q8495', 4),
+                   ('https://www.wikidata.org/wiki/Q26879249', 4),
+                    ('https://www.wikidata.org/wiki/Q13186', 4),
+                     ('https://www.wikidata.org/wiki/Q283', 4),
+                      ('https://www.wikidata.org/wiki/Q93189', 7),
+                       ('https://www.wikidata.org/wiki/Q36465', 7),
+                        ('https://www.wikidata.org/wiki/Q11254', 8),
+                         ('https://www.wikidata.org/wiki/Q34172', 9),
+                          ('https://www.wikidata.org/wiki/Q11002', 9),
+                           ('https://www.wikidata.org/wiki/Q89', 10)])
+
+
+
+
+{'https://www.wikidata.org/wiki/Q2249305': 'wheat flour ', 'https://www.wikidata.org/wiki/Q34172': 'butter', 
+'https://www.wikidata.org/wiki/Q11254': 'table salt', 'https://www.wikidata.org/wiki/Q8495': 'milk', 'https://www.wikidata.org/wiki/Q89': 'apple ',
+ 'https://www.wikidata.org/wiki/Q3492989': 'vanilla sugar', 'https://www.wikidata.org/wiki/Q3268': 'calvados', 'https://www.wikidata.org/wiki/Q1142459': 'crème fraîche',
+  'https://www.wikidata.org/wiki/Q93189': 'egg', 'https://www.wikidata.org/wiki/Q11002': 'sugar', 'https://www.wikidata.org/wiki/Q36465': 'flour',
+   'https://www.wikidata.org/wiki/Q11190742': 'brown sugar', 'https://www.wikidata.org/wiki/Q5477096': 'rusk', 'https://www.wikidata.org/wiki/Q26879249': 'lemon zest',
+    'https://www.wikidata.org/wiki/Q1269': 'jam', 'https://www.wikidata.org/wiki/Q13186': 'raisin', 'https://www.wikidata.org/wiki/Q283': 'water',
+     'https://www.wikidata.org/wiki/Q165267': 'cane sugar', 'https://www.wikidata.org/wiki/Q28165': 'cinnamon', 'https://www.wikidata.org/wiki/Q227819': 'thick juice',
+      'https://www.wikidata.org/wiki/Q29476': 'baking powder', 'https://www.wikidata.org/wiki/Q658413': 'bread crumbs', 'https://www.wikidata.org/wiki/Q1093742': 'lemon',
+       'https://www.wikidata.org/wiki/Q151070': 'powdered sugar', 'https://www.wikidata.org/wiki/Q259642': 'quark', 'https://www.wikidata.org/wiki/Q798465': 'Baking mix',
+        'https://www.wikidata.org/wiki/Q10987': 'honey', 'https://www.wikidata.org/wiki/Q13228': 'cream', 'https://www.wikidata.org/wiki/Q4409456': 'white sugar',
+         'https://www.wikidata.org/wiki/Q83165': 'nutmeg', 'https://www.wikidata.org/wiki/Q194322': 'DL-tartaric acid', 'https://www.wikidata.org/wiki/Q856330': 'cracker'}

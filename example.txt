@@ -1,0 +1,29 @@
+:exampleRecipe
+    a fo:recipe ;
+    dc:date "2000" ;
+    dc:location dbp:Canada ;
+    dc:language dbp:French ;
+    fo:ingredients :ing1, :ing2, :ing3, :ing4, :ing5 ;
+    cito:citesAsEvidence :examplesource;
+    dc:publisher <http://www.blablabla.org> .
+
+:ing1
+    a fo:ingredient;
+    rdfs:label "mela";
+    fo:food dbp:apple;
+    fo:quantity ()?????
+
+:examplesource
+    dc:publisher <http://www.applepierecipes.org> ;
+    dc:source <http://www.applepierecipes.org/example1> ;
+    dc:title "ApplePie4Life" ;
+    dc:date 
+    dc:description: "" ;
+    CAN WHE DO BETTER?
+
+    
+
+
+
+
+

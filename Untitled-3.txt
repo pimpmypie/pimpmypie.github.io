@@ -1,0 +1,54 @@
+{'https://www.wikidata.org/wiki/Q3268' : 32, 
+'https://www.wikidata.org/wiki/Q1142459' : 31, 
+'https://www.wikidata.org/wiki/Q5477096' : 30, 
+'https://www.wikidata.org/wiki/Q165267' : 29, 
+'https://www.wikidata.org/wiki/Q227819' : 28,
+ 'https://www.wikidata.org/wiki/Q658413' : 27,
+  'https://www.wikidata.org/wiki/Q1093742' : 26,
+   'https://www.wikidata.org/wiki/Q151070' : 25,
+    'https://www.wikidata.org/wiki/Q259642' : 24,
+     'https://www.wikidata.org/wiki/Q10987' : 23,
+      'https://www.wikidata.org/wiki/Q13228' : 22,
+       'https://www.wikidata.org/wiki/Q4409456' : 21,
+        'https://www.wikidata.org/wiki/Q83165' : 20,
+         'https://www.wikidata.org/wiki/Q194322' : 19,
+          'https://www.wikidata.org/wiki/Q856330' : 18,
+           'https://www.wikidata.org/wiki/Q2249305' : 17,
+            'https://www.wikidata.org/wiki/Q3492989' : 16,
+             'https://www.wikidata.org/wiki/Q11190742' : 15,
+              'https://www.wikidata.org/wiki/Q798465' : 14,
+               'https://www.wikidata.org/wiki/Q1269' : 13,
+                'https://www.wikidata.org/wiki/Q28165' : 12,
+                 'https://www.wikidata.org/wiki/Q29476' : 11,
+                  'https://www.wikidata.org/wiki/Q8495' : 10,
+                   'https://www.wikidata.org/wiki/Q26879249' : 9,
+                    'https://www.wikidata.org/wiki/Q13186' : 8,
+                     'https://www.wikidata.org/wiki/Q283' : 7,
+                      'https://www.wikidata.org/wiki/Q93189' : 6,
+                       'https://www.wikidata.org/wiki/Q36465' : 5,
+                        'https://www.wikidata.org/wiki/Q11254' : 4,
+                         'https://www.wikidata.org/wiki/Q34172' : 3,
+                          'https://www.wikidata.org/wiki/Q11002' : 2,
+                           'https://www.wikidata.org/wiki/Q89' : 1}
+
+
+
+
+
+
+USA
+{'1949': ['7', '2', '14'],
+'1940': ['7', '2', '1', '14', '23', '22'],
+'1857': ['19', '2', '18']}
+
+
+
+NL
+{'1993': ['17', '3', '4', '10', '1', '16', '32', '31', '6', '2'], 
+'1995': ['5', '3', '4', '10', '1', '15', '30', '9', '6', '2', '13'],
+'1988': ['5', '3', '4', '2', '1', '8', '7'],
+'1989': ['17', '3', '4', '29', '6', '12', '1', '8', '9', '28'],
+'1969': ['5', '3', '4', '2', '1', '6', '10', '9', '11', '7', '13'],
+'1987': ['5', '3', '4', '1', '6', '12', '11', '8', '27', '13', '26', '25', '24'],
+'1970': ['5', '3', '15', '4', '16', '1', '8', '12', '6', '2'],
+'1980': ['5', '3', '4', '2', '1']}

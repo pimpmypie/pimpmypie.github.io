@@ -52,7 +52,7 @@
         $(document).ready(function() {
 
 
-            var options = {
+            var data = {
                 type: 'bubble',
                 data: {
                   datasets: [
@@ -163,14 +163,27 @@
                 }
               }
 
-
+var option = {
+    scales: {
+        xAxes: [{
+            ticks: {
+                autoSkip : false,
+            }
+        }],
+        yAxes: [{
+            ticks: {
+                autoSkip : false,
+            }
+        }],
+    },
+};
 
 
 
 
               
               var ctx = document.getElementById('graph').getContext('2d');
-              new Chart(ctx, options);
+              new Chart(ctx, data= data, options= option);
 
 
 

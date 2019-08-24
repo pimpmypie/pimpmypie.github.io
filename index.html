@@ -201,9 +201,6 @@
    type: 'bubble',
    data: dataPie,
    options: {
-    onClick : function(mouseEvent,chart){
-        console.log(chart)
-},
     scales: {
         xAxes: [{
             ticks: {
@@ -239,8 +236,6 @@
           intersect: false,
          callbacks: {
              title: function(a, d) {
-                 console.log(a)
-                 console.log(d)
               return a[0].xLabel + ": " + d.datasets[a[0].datasetIndex].label
             },
             label: function(t, d) {
@@ -250,11 +245,6 @@
       }
    }
 });
-
-
-
-              
-
 
 
         })
